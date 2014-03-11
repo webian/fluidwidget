@@ -19,5 +19,5 @@ A small collection of the special "Widget" type of ViewHelpers, with associated 
 
 ## What does it do?
 
-Installing EXT:fluidwidget allows you to use the contained ViewHelpers in your templates. See http://fedext.net/viewhelpers/fluidwidget.html
+Installing EXT:fluidwidget allows you to use the contained ViewHelpers in your templates. See https://fedext.net/viewhelpers/fluidwidget/master.html
 for a list of ViewHelpers and arguments.
